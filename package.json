@@ -1,5 +1,30 @@
 {
   "name": "react-starter-webpack-typescript",
+  "version": "1.0.0",
+  "description": "react js + bootstrap + typescript + webpack starter",
+  "author": "Adwaitya Sadhukhan",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MacKentoch/react-bootstrap-webpack-starter.git"
+  },
+  "keywords": [
+    "react",
+    "react 16",
+    "react 16.4",
+    "context",
+    "context api",
+    "Typescript",
+    "bootstrap",
+    "starter",
+    "webpack",
+    "hot-reload",
+    "webpack 4",
+    "webpack",
+    "react-router",
+    "react-router 4",
+    "react-router v4"
+  ],
   "devDependencies": {
     "@babel/core": "7.5.0",
     "@babel/plugin-transform-regenerator": "7.4.5",
