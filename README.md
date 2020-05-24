@@ -36,12 +36,6 @@
 npm install
 ```
 
-or
-
-```bash
-yarn install
-```
-
 ### bundle dev mode
 
 ```bash
@@ -72,10 +66,3 @@ npm run test
 npm run prod
 ```
 
-### mini node-express server
-
-with server hot reload (_and dev bundle_):
-
-```bash
-npm run serve-dev
-```
